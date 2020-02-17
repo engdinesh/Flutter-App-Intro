@@ -1,6 +1,6 @@
 # flutter_app
 
-A new Flutter application.
+Flutter application with Introduction screen of app and Property display demo.
 
 ## Getting Started
 
